@@ -1,0 +1,15 @@
+Online Courses & Tutorials
+Kaggle's Data Visualization Course: Free, interactive, and excellent for getting hands-on with Seaborn.
+
+The Matplotlib Official Tutorials: The "Anatomy of a Figure" and "Lifecycle of a Plot" pages are gold.
+
+The Seaborn Official Tutorial and Gallery: The gallery is the best place to find the plot you need and see the code that generated it.
+
+Practice, Practice, Practice
+You can't learn this by reading alone.
+
+Kaggle Datasets: Pick a dataset that interests you (e.g., "Netflix Movies and TV Shows," "Video Game Sales"). Formulate three business questions and use this framework to answer them in a notebook.
+
+TidyTuesday: A weekly data project from the R community (but you can use Python!). They provide a new, interesting, and often messy dataset every week. It's fantastic practice.
+
+MakeoverMonday: Similar to TidyTuesday. They provide a dataset and an existing visualization. Your job is to improve it. This hones your critical eye.
